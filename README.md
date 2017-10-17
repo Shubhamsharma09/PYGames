@@ -1,7 +1,7 @@
 # PYGames  
 ![Built on python 3](https://img.shields.io/badge/python-3-blue.svg)
 
-Pygames are word games written in python that are played on the command line.
+PYGames are games written in python that are played on the command line.
 
 ##### Games  
 [Hangman](#hangman)  
@@ -27,7 +27,7 @@ How to play:
 ```
 % python3 mainframe.py
 ```
-Start by choosing how many characters you want to reveal. You then have to guess the word that is made up with the given characters. You will gain points if you guess a valid word.
+Start by choosing how many characters you want to reveal. You then have to guess the word that is made up with the given characters. You will gain points if you guess a valid word. You can use * as a wildcard to replace any one vowel.
 
 
 ## Numberguessing
