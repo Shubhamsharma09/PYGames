@@ -1,0 +1,4 @@
+A - left
+W - change shape
+D - right
+S - speed up
