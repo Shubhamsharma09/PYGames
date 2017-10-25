@@ -44,6 +44,11 @@ How to play:
 ```
 You are trying to get as close to 21 as possible without going over! The player that's closest wins.
 
+## Tetris
+Tetris is a computer game invented by Alexey Pajitnov in 1985 at the Academy of Sciences in Moscow, Russia. Tetris was part of the classic handheld Game Boy console.
+
+The objective of Tetris is to complete full solid lines (no gaps). When you make a line it disappears and all the blocks shift accordingly. If you let the blocks reach the top of the Tetris board, you lose. You cannot win a Tetris game, though you can attempt to get the high score.
+
 
 ## Contribute
 Feel free to contribute your own games and create a pull request for them and please rebase your commits before sending pull request!
