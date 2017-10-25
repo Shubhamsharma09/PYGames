@@ -49,6 +49,10 @@ Tetris is a computer game invented by Alexey Pajitnov in 1985 at the Academy of 
 
 The objective of Tetris is to complete full solid lines (no gaps). When you make a line it disappears and all the blocks shift accordingly. If you let the blocks reach the top of the Tetris board, you lose. You cannot win a Tetris game, though you can attempt to get the high score.
 
+## TicTacToe
+Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+
+
 
 ## Contribute
 Feel free to contribute your own games and create a pull request for them and please rebase your commits before sending pull request!
